@@ -14,7 +14,7 @@ This project covers:
 * `mining_simulation.ipynb`: Simulates the Proof of Work mining process.
 * `consensus_simulation.ipynb`: Simulates three different consensus mechanisms.
 
-##Theoretical Assignment
+## Theoretical Assignment
 
 Blockchain Theory Explained
 What is a Blockchain?
