@@ -10,6 +10,6 @@ This project covers:
 
 ## Code Files
 
-* `block_simulation.py`: Demonstrates the creation of a basic chain and the effect of tampering.
-* `mining_simulation.py`: Simulates the Proof of Work mining process.
-* `consensus_simulation.py`: Simulates three different consensus mechanisms.
+* `block_simulation.ipynb`: Demonstrates the creation of a basic chain and the effect of tampering.
+* `mining_simulation.ipynb`: Simulates the Proof of Work mining process.
+* `consensus_simulation.ipynb`: Simulates three different consensus mechanisms.
